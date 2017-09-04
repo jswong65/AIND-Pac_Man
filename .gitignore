@@ -39,4 +39,10 @@ Thumbs.db
 
 # Python #
 ##########
-.pyc
+*.pyc
+
+# Folders #
+###########
+test-case/
+layouts/
+docs/
