@@ -43,6 +43,6 @@ Thumbs.db
 
 # Folders #
 ###########
-test-case/
+test_cases/
 layouts/
 docs/
